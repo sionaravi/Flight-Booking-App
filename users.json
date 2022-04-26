@@ -1,0 +1,41 @@
+[{
+    "id": "00fb3db9-c369-4ba0-b9a1-9f6caefc77dd",
+    "user-id":  "bill_smith",
+    "password": "00000000",
+    "firstname": "Bill",
+    "lastname": "Smith",
+    "address": "123 Lane",
+    "city":"Columbia",
+    "state":"SC",
+    "zip":"29201",
+    "d.o.b": "03/30/1973",
+    "emailAddress":"oaidjo@gmail.com",
+    "phoneNumber":"803-234-8764",
+    "disability":false,
+    "visa":"",
+    "occupation":"",
+    "discount": "veteran discount",
+    "Friends": [{
+            "id": "8c419235-390a-43dc-9573-92e473d58493",
+            "firstname": "Joe",
+            "lastname": "Bryant",
+            "d.o.b": "03/25/2022",
+            "discount": "none",
+            "flights":[{"flightid":"b6c29459-baeb-4445-869b-983131198cbf", "seat":"13C"}
+            ],
+            "hotels":[{"hotelid":"2ead4186-a210-406d-a130-ba2c51b4ff78","check in day":"03/12/2022","check out day":"03/14/2022"}]
+    },
+    {
+        "id": "291f744f-e71c-4099-ae2f-fe90de161d82",
+        "firstname": "Mike",
+        "lastname": "J",
+        "d.o.b": "07/22/1999",
+        "discount": "none",
+        "flights":[{"flightid":"a6df5fc1-16ed-4dbf-833a-92c4615d393c", "seat":"14a"}
+        ],
+        "hotels":[{"hotelid":"145fa457-7288-40c9-90a0-b14fb0be576d","check in day":"03/12/2022","check out day":"03/14/2022"}]}         
+    ]
+    }]
+    
+    
+    

@@ -1,0 +1,79 @@
+[{  "id": "b4cc8d77-0b3f-4a69-bcaf-2e885e82cf9f",
+    "departs from": "Columbia",
+    "destination": "Atlanta",
+    "departure date": "08/12/2022",
+    "departure time": "12:00 PM",
+    "arrival time": "1:30 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "American Airlines"
+    },
+{
+    "id": "7ad83e2b-e794-4dc4-9f09-c1839b4ecc02",
+    "departs from": "Atlanta",
+    "destination": "Seattle",
+    "departure date": "08/12/2022",
+    "departure time": "3:30 PM",
+    "arrival time": "9:00 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "American Airlines"
+},
+{
+    "id": "294d30f7-44dd-4e09-afc7-d408a6ca865e",
+    "departs from": "Columbia",
+    "destination": "Seattle",
+    "departure date": "08/12/2022",
+    "departure time": "12:00 PM",
+    "arrival time": "8:00 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "Delta"
+},
+{
+    "id": "b6c29459-baeb-4445-869b-983131198cbf",
+    "departs from": "Columbia",
+    "destination": "Nashville",
+    "departure date": "08/12/2022",
+    "departure time": "8:00 AM",
+    "arrival time": "9:30 AM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "SouthWest"
+},
+{
+    "id": "8c0c19a3-d6af-4cd4-aba2-ca131737ec11",
+    "departs from": "Nashville",
+    "destination": "Seattle",
+    "departure date": "08/12/2022",
+    "departure time": "12:00 PM",
+    "arrival time": "4:30 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "SouthWest"
+},
+{
+    "id": "a6df5fc1-16ed-4dbf-833a-92c4615d393c",
+    "departs from": "Columbia",
+    "destination": "Atlanta",
+    "departure date": "08/12/2022",
+    "departure time": "2:00 PM",
+    "arrival time": "3:30 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "United Airlines"
+},
+{
+    "id": "19a14914-0d1c-4fed-9a9b-039b7af54f6f",
+    "departs from": "Atlanta",
+    "destination": "Phoenix",
+    "departure date": "08/12/2022",
+    "departure time": "5:00 PM",
+    "arrival time": "8:30 PM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "United Airlines"
+},
+{
+    "id": "46fdb965-11c8-4124-a24a-dfd0c51116ca",
+    "departs from": "Phoenix",
+    "destination": "Seattle",
+    "departure date": "08/12/2022",
+    "departure time": "9:30 PM",
+    "arrival time": "12:00 AM",
+    "seats": [{"name": "13A", "available": true},{"name": "13B", "available": true}],
+    "Airline": "United Airlines"
+}]
